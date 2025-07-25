@@ -1,2 +1,1 @@
-# Example
-An example greeter plugin
+timer for force spawning marks of grace
